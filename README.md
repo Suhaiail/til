@@ -6,3 +6,4 @@ Short notes on things I learn day to day.
 - [2026-09-05] **python**: pathlib over os.path
 - [2026-09-06] **javascript**: AbortController
 - [2026-09-06] **docker**: Health checks
+- [2026-09-07] **javascript**: Structured clone
