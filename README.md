@@ -10,3 +10,4 @@ Short notes on things I learn day to day.
 - [2026-09-09] **bash**: Trap signals
 - [2026-09-10] **sql**: Window functions
 - [2026-09-10] **javascript**: Proxy objects
+- [2026-09-12] **javascript**: Optional chaining
