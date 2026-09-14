@@ -13,3 +13,4 @@ Short notes on things I learn day to day.
 - [2026-09-12] **javascript**: Optional chaining
 - [2026-09-13] **git**: Rebase interactive
 - [2026-09-14] **linux**: Process substitution
+- [2026-09-14] **sql**: Recursive CTEs
