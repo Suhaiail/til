@@ -15,3 +15,4 @@ Short notes on things I learn day to day.
 - [2026-09-14] **linux**: Process substitution
 - [2026-09-14] **sql**: Recursive CTEs
 - [2026-09-15] **linux**: Watch command
+- [2026-09-16] **python**: Walrus operator
