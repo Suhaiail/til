@@ -17,3 +17,4 @@ Short notes on things I learn day to day.
 - [2026-09-15] **linux**: Watch command
 - [2026-09-16] **python**: Walrus operator
 - [2026-09-16] **git**: Stash with message
+- [2026-09-19] **javascript**: AbortController

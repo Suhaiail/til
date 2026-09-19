@@ -1,6 +1,6 @@
 # AbortController
 
-> Learned: 2026-09-06
+> Learned: 2026-09-19
 
 Use `AbortController` to cancel fetch requests:
 ```javascript
