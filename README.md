@@ -19,3 +19,4 @@ Short notes on things I learn day to day.
 - [2026-09-16] **git**: Stash with message
 - [2026-09-19] **javascript**: AbortController
 - [2026-09-21] **bash**: Parameter expansion
+- [2026-09-22] **docker**: Multi-stage builds
