@@ -23,3 +23,4 @@ Short notes on things I learn day to day.
 - [2026-09-22] **css**: Container queries
 - [2026-09-24] **docker**: BuildKit secrets
 - [2026-09-24] **linux**: Process substitution
+- [2026-09-25] **git**: Stash with message
