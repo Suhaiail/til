@@ -26,3 +26,4 @@ Short notes on things I learn day to day.
 - [2026-09-25] **git**: Stash with message
 - [2026-09-29] **bash**: Here strings
 - [2026-09-29] **sql**: Window functions
+- [2026-09-30] **bash**: Trap signals
