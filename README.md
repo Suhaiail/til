@@ -29,3 +29,4 @@ Short notes on things I learn day to day.
 - [2026-09-30] **bash**: Trap signals
 - [2026-10-03] **sql**: Recursive CTEs
 - [2026-10-04] **sql**: Recursive CTEs
+- [2026-10-04] **bash**: Here strings
