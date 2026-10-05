@@ -31,3 +31,4 @@ Short notes on things I learn day to day.
 - [2026-10-04] **sql**: Recursive CTEs
 - [2026-10-04] **bash**: Here strings
 - [2026-10-05] **python**: Structural pattern matching
+- [2026-10-05] **docker**: BuildKit secrets
