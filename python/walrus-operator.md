@@ -1,6 +1,6 @@
 # Walrus operator
 
-> Learned: 2026-09-16
+> Learned: 2026-10-11
 
 The walrus operator `:=` lets you assign and test in one expression:
 ```python

@@ -34,3 +34,4 @@ Short notes on things I learn day to day.
 - [2026-10-05] **docker**: BuildKit secrets
 - [2026-10-07] **git**: Worktrees
 - [2026-10-11] **javascript**: Optional chaining
+- [2026-10-11] **python**: Walrus operator
