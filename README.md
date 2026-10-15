@@ -35,3 +35,4 @@ Short notes on things I learn day to day.
 - [2026-10-07] **git**: Worktrees
 - [2026-10-11] **javascript**: Optional chaining
 - [2026-10-11] **python**: Walrus operator
+- [2026-10-15] **sql**: COALESCE function
