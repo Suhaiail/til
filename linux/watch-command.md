@@ -1,5 +1,5 @@
 # Watch command
 
-> Learned: 2026-09-15
+> Learned: 2026-10-17
 
 `watch -n 2 'df -h'` runs `df -h` every 2 seconds and shows the output live. Great for monitoring.
