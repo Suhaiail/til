@@ -39,3 +39,4 @@ Short notes on things I learn day to day.
 - [2026-10-16] **sql**: Window functions
 - [2026-10-17] **linux**: Watch command
 - [2026-10-20] **css**: Scroll snap
+- [2026-10-20] **git**: Bisect for debugging
