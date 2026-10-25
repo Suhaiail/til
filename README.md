@@ -42,3 +42,4 @@ Short notes on things I learn day to day.
 - [2026-10-20] **git**: Bisect for debugging
 - [2026-10-21] **linux**: Systemd journal
 - [2026-10-22] **python**: Walrus operator
+- [2026-10-25] **git**: Stash with message
