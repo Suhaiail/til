@@ -44,3 +44,4 @@ Short notes on things I learn day to day.
 - [2026-10-22] **python**: Walrus operator
 - [2026-10-25] **git**: Stash with message
 - [2026-10-27] **python**: pathlib over os.path
+- [2026-10-28] **git**: Reflog recovery
