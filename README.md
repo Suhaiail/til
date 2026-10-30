@@ -46,3 +46,4 @@ Short notes on things I learn day to day.
 - [2026-10-27] **python**: pathlib over os.path
 - [2026-10-28] **git**: Reflog recovery
 - [2026-10-29] **python**: pathlib over os.path
+- [2026-10-30] **docker**: BuildKit secrets
