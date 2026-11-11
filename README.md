@@ -49,3 +49,4 @@ Short notes on things I learn day to day.
 - [2026-10-30] **docker**: BuildKit secrets
 - [2026-10-30] **linux**: Systemd journal
 - [2026-10-31] **git**: Worktrees
+- [2026-11-11] **python**: Context managers
