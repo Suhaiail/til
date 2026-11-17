@@ -53,3 +53,4 @@ Short notes on things I learn day to day.
 - [2026-11-12] **docker**: BuildKit secrets
 - [2026-11-14] **git**: Stash with message
 - [2026-11-16] **git**: Rebase interactive
+- [2026-11-17] **sql**: COALESCE function

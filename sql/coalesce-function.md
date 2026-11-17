@@ -1,6 +1,6 @@
 # COALESCE function
 
-> Learned: 2026-10-15
+> Learned: 2026-11-17
 
 `COALESCE(a, b, c)` returns the first non-NULL value. Useful for providing defaults:
 ```sql
