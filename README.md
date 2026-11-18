@@ -55,3 +55,4 @@ Short notes on things I learn day to day.
 - [2026-11-16] **git**: Rebase interactive
 - [2026-11-17] **sql**: COALESCE function
 - [2026-11-18] **sql**: Recursive CTEs
+- [2026-11-18] **docker**: Health checks
