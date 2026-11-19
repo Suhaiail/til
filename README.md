@@ -56,3 +56,4 @@ Short notes on things I learn day to day.
 - [2026-11-17] **sql**: COALESCE function
 - [2026-11-18] **sql**: Recursive CTEs
 - [2026-11-18] **docker**: Health checks
+- [2026-11-19] **javascript**: Structured clone
