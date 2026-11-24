@@ -59,3 +59,4 @@ Short notes on things I learn day to day.
 - [2026-11-19] **javascript**: Structured clone
 - [2026-11-21] **bash**: Parameter expansion
 - [2026-11-23] **linux**: Find large files
+- [2026-11-25] **python**: Walrus operator
